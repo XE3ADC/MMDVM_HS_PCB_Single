@@ -1,4 +1,4 @@
-update=2018 April 08, Sunday 21:56:08
+update=2018 May 04, Friday 23:21:30
 version=1
 last_client=kicad
 [cvpcb]
@@ -40,10 +40,20 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=stm32f103c8t6-module-china
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
 [pcbnew]
 version=1
 PageLayoutDescrFile=
-LastNetListRead=stm32duino-nxd.net
+LastNetListRead=stm32duino-2.net
 PadDrill=1
 PadDrillOvalY=1
 PadSizeH=1.7
@@ -59,13 +69,3 @@ SolderMaskMinWidth=0
 DrawSegmentWidth=0.2
 BoardOutlineThickness=0.15
 ModuleOutlineThickness=0.15
-[schematic_editor]
-version=1
-PageLayoutDescrFile=
-PlotDirectoryName=
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=
-SpiceForceRefPrefix=0
-SpiceUseNetNumbers=0
-LabSize=60

@@ -107,7 +107,7 @@ U 1 1 58D673D0
 P 8650 3450
 F 0 "P1" H 8650 3850 50  0000 C CNN
 F 1 "RF7021SE" V 8650 3450 50  0000 C CNN
-F 2 "Pin_Headers:Pin_Header_Straight_2x07_Pitch2.54mm" H 8650 2250 50  0001 C CNN
+F 2 "RF_Modules:RF7021SE_Breakout" H 8650 2250 50  0001 C CNN
 F 3 "" H 8650 2250 50  0000 C CNN
 	1    8650 3450
 	1    0    0    -1  
@@ -443,7 +443,7 @@ U 1 1 58DBEE1E
 P 8550 4350
 F 0 "P2" H 8550 4600 50  0000 C CNN
 F 1 "DISP_I2C" V 8650 4350 50  0000 C CNN
-F 2 "Pin_Headers:Pin_Header_Angled_1x04_Pitch2.54mm" H 8550 4350 50  0001 C CNN
+F 2 "Pin_Headers:Pin_Header_Straight_1x04_Pitch2.54mm" H 8550 4350 50  0001 C CNN
 F 3 "" H 8550 4350 50  0000 C CNN
 	1    8550 4350
 	1    0    0    -1  
@@ -473,7 +473,7 @@ U 1 1 58DF685D
 P 8450 4950
 F 0 "P3" H 8450 5150 50  0000 C CNN
 F 1 "DISP_SER" V 8550 4950 50  0000 C CNN
-F 2 "Pin_Headers:Pin_Header_Angled_1x03_Pitch2.54mm" H 8450 4950 50  0001 C CNN
+F 2 "Pin_Headers:Pin_Header_Straight_1x03_Pitch2.54mm" H 8450 4950 50  0001 C CNN
 F 3 "" H 8450 4950 50  0000 C CNN
 	1    8450 4950
 	1    0    0    -1  
@@ -506,7 +506,7 @@ U 1 1 58DF6A9D
 P 8450 5550
 F 0 "P4" H 8450 5800 50  0000 C CNN
 F 1 "HOST_SER" V 8550 5550 50  0000 C CNN
-F 2 "Pin_Headers:Pin_Header_Angled_1x04_Pitch2.54mm" H 8450 5550 50  0001 C CNN
+F 2 "Pin_Headers:Pin_Header_Straight_1x04_Pitch2.54mm" H 8450 5550 50  0001 C CNN
 F 3 "" H 8450 5550 50  0000 C CNN
 	1    8450 5550
 	1    0    0    -1  
